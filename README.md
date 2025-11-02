@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Project Rad](https://github.com/Sundarsk-Dev/PROJECT-RAD)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sundarsk-Dev](https://github.com/Sundarsk-Dev)
+- 👨‍💻 All of my projects are available at [https://github.com/Sundarsk-Dev](https://github.com/Sundarsk-Dev?tab=repositories)
 
 - 📫 How to reach me **kamalsundarsk@gmail.com**
 
